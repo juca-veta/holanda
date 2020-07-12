@@ -75,3 +75,13 @@ body {
     border-radius: 15px;
     box-shadow: 10px 10px 5px grey;
 }
+
+.columna2 {
+    background: rgb(144, 168, 79);
+    color: #333;
+    border: 1px solid #333;
+    margin-bottom: 30px;
+    padding: 50px 400px 50px 400px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px grey;
+}
