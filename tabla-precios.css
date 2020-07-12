@@ -85,3 +85,23 @@ body {
     border-radius: 15px;
     box-shadow: 10px 10px 5px grey;
 }
+
+.columna3 {
+    background: rgb(223, 87, 139);
+    color: #333;
+    border: 1px solid #333;
+    margin-bottom: 30px;
+    padding: 50px 400px 50px 400px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.columna4 {
+    background: rgb(134, 120, 214);
+    color: #333;
+    border: 1px solid #333;
+    margin-bottom: 30px;
+    padding: 50px 400px 50px 400px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px grey;
+}
